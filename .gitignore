@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+.venv/
+aligned_faces
+archive
+cropped_images
+selected_images
+models
+*.log
+*.png
+
